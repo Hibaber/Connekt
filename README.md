@@ -8,46 +8,70 @@ App demo: https://coo-nekt.netlify.app/
 
 
 Register and create your account or use the following one for testing purposes
+
 Login
+
 email: ofek@hotmail.com
+
 password: 123
 
 Description
+
 Connekt(SPA) is an online dating application. The profiles propose ideal romantic dates. Users can "swipe left" to reject a candidate or selects a date and to play to guess a truth and a lie proposed by the profile. In order to talk to that person, the lie must be guess.
 
 Server Install
+
 npm install
 
 Server Usage
+
 npm run dev
 
 Server .env variables needed
+
 PORT=5005
+
 ORIGIN=http://localhost:3000
+
 SESS_SECRET
+
 MONGODB_URI
+
 CLOUDINARY_NAME = Your Cloudinary user name
+
 CLOUDINARY_KEY = Key to your Cloudinary account
+
 CLOUDINARY_SECRET = Secret key of your Cloudinary account
 
 On client:
+
 REACT_APP_BASE_URL=http://localhost:5005/api
+
 REACT_APP_SOCKET_URL=http://localhost:3000
+
 REACT_APP_SOCKET_IO=http://localhost:5005
 
 Client Install
+
 npm install
 
 Client Usage
+
 npm start
 
 
 Technologies
+
 React - Hooks
+
 MongoDB
+
 Express
+
 Node
+
 Javascript (ES6)
+
 HTML & CSS
 
 Additional info
