@@ -4,7 +4,7 @@
 
 Connekt(SPA) is an online application meant to allow entrepreneurs to create meetups in order to network wih other like-minded ambitious people.
 
-It also renders some of the best coworking places in Madrid and the most briliant books related to the field
+It also renders some of the best coworking places in Madrid and the most briliant field-related books.
 
 **
 App demo: https://coo-nekt.netlify.app/**
