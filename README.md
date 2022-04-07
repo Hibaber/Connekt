@@ -14,11 +14,11 @@ App demo: https://coo-nekt.netlify.app/**
 ![2022-03-26 18 26 06](https://user-images.githubusercontent.com/86075066/160420272-cb74b43c-ede3-474a-a0f3-24370f95e2a5.gif)
 
 
-Server Install
+**Server Install**
 
 npm install
-
-Server Usage
+**
+Server Usage**
 
 npm run dev
 
@@ -38,7 +38,7 @@ CLOUDINARY_KEY = Key to your Cloudinary account
 
 CLOUDINARY_SECRET = Secret key of your Cloudinary account
 
-On client:
+**On client:**
 
 REACT_APP_BASE_URL=http://localhost:5005/api
 
@@ -55,7 +55,7 @@ Client Usage
 npm start
 
 
-Technologies
+**Technologies**
 
 React - Hooks
 
@@ -69,11 +69,12 @@ Javascript (ES6)
 
 HTML & CSS
 
-Additional info
+
+**Additional info**
 
 This project has been developed by Hiba Berber and Laura Del Valle as the final project of Ironhack's Web Development Bootcamp 
 
-Backend endpoints
+**Backend endpoints**
 
 | Method      | Type                                                  | Description
 | :--------   | :-------                                              | :--------------------------------
@@ -95,7 +96,7 @@ Backend endpoints
 |   `GET`     | `/api/usuario/getUserById/:id`	                      |  Allows to check other users profile
 
 
-Front-end endpoints
+**Front-end endpoints**
 
 | Method      | Type                                                  | Description
 | :--------   | :-------                                              | :--------------------------------
