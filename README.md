@@ -1,23 +1,18 @@
 # Connekt
 
-App demo: https://coo-nekt.netlify.app/
+**Description**
 
+Connekt(SPA) is an online application meant to allow entrepreneurs to create meetups in order to network wih other like-minded ambitious people.
 
+It also renders some of the best coworking places in Madrid and the most briliant books related to the field
+
+**
+App demo: https://coo-nekt.netlify.app/**
+
+![Captura de pantalla 2022-04-07 a las 14 20 52](https://user-images.githubusercontent.com/86075066/162197359-02e89198-d14a-48fe-afa6-6241463fbbe5.png)
 ![2022-03-26 18 41 08](https://user-images.githubusercontent.com/86075066/160418573-21c79a26-9230-4fff-bae2-c535a14c39a7.gif)
 ![2022-03-26 18 26 06](https://user-images.githubusercontent.com/86075066/160420272-cb74b43c-ede3-474a-a0f3-24370f95e2a5.gif)
 
-
-Register and create your account or use the following one for testing purposes
-
-Login
-
-email: ofek@hotmail.com
-
-password: 123
-
-Description
-
-Connekt(SPA) is an online dating application. The profiles propose ideal romantic dates. Users can "swipe left" to reject a candidate or selects a date and to play to guess a truth and a lie proposed by the profile. In order to talk to that person, the lie must be guess.
 
 Server Install
 
