@@ -9,6 +9,12 @@ It also renders some of the best coworking places in Madrid and the most brilian
 **
 App demo: https://coo-nekt.netlify.app/**
 
+You can create your own account or use the following for testing purposes:
+
+**User**: ofek@hotmail.com
+
+**Password**: 123
+
 ![Captura de pantalla 2022-04-07 a las 14 20 52](https://user-images.githubusercontent.com/86075066/162197359-02e89198-d14a-48fe-afa6-6241463fbbe5.png)
 ![2022-03-26 18 41 08](https://user-images.githubusercontent.com/86075066/160418573-21c79a26-9230-4fff-bae2-c535a14c39a7.gif)
 ![2022-03-26 18 26 06](https://user-images.githubusercontent.com/86075066/160420272-cb74b43c-ede3-474a-a0f3-24370f95e2a5.gif)
