@@ -17,8 +17,8 @@ App demo: https://coo-nekt.netlify.app/**
 **Server Install**
 
 npm install
-**
-Server Usage**
+
+**Server Usage**
 
 npm run dev
 
@@ -46,11 +46,11 @@ REACT_APP_SOCKET_URL=http://localhost:3000
 
 REACT_APP_SOCKET_IO=http://localhost:5005
 
-Client Install
+**Client Install**
 
 npm install
 
-Client Usage
+**Client Usage**
 
 npm start
 
@@ -68,6 +68,8 @@ Node
 Javascript (ES6)
 
 HTML & CSS
+
+Bootstrap
 
 
 **Additional info**
